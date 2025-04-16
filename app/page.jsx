@@ -6,7 +6,7 @@ import { RandomQuote } from 'components/random-quote';
 import { getNetlifyContext } from 'utils';
 
 const contextExplainer = `
-你好，你好，你好你好你好The card below is rendered on the server based on the value of \`process.env.CONTEXT\` 
+tThe card below is rendered on the server based on the value of \`process.env.CONTEXT\` 
 ([docs](https://docs.netlify.com/configure-builds/environment-variables/#build-metadata)):
 `;
 
